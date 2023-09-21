@@ -1,0 +1,11 @@
+D:\Downloads\TrinhTuanDan\2180602115_Trịnh Tuấn Đan\Lab3_2\bin\Debug\Lab3_2.exe.config
+D:\Downloads\TrinhTuanDan\2180602115_Trịnh Tuấn Đan\Lab3_2\bin\Debug\Lab3_2.exe
+D:\Downloads\TrinhTuanDan\2180602115_Trịnh Tuấn Đan\Lab3_2\bin\Debug\Lab3_2.pdb
+D:\Downloads\TrinhTuanDan\2180602115_Trịnh Tuấn Đan\Lab3_2\obj\Debug\BaiTapCaNhan.csproj.AssemblyReference.cache
+D:\Downloads\TrinhTuanDan\2180602115_Trịnh Tuấn Đan\Lab3_2\obj\Debug\Lab3_2.ThemSinhVien.resources
+D:\Downloads\TrinhTuanDan\2180602115_Trịnh Tuấn Đan\Lab3_2\obj\Debug\Lab3_2.QuanLySinhVien.resources
+D:\Downloads\TrinhTuanDan\2180602115_Trịnh Tuấn Đan\Lab3_2\obj\Debug\Lab3_2.Properties.Resources.resources
+D:\Downloads\TrinhTuanDan\2180602115_Trịnh Tuấn Đan\Lab3_2\obj\Debug\BaiTapCaNhan.csproj.GenerateResource.cache
+D:\Downloads\TrinhTuanDan\2180602115_Trịnh Tuấn Đan\Lab3_2\obj\Debug\BaiTapCaNhan.csproj.CoreCompileInputs.cache
+D:\Downloads\TrinhTuanDan\2180602115_Trịnh Tuấn Đan\Lab3_2\obj\Debug\Lab3_2.exe
+D:\Downloads\TrinhTuanDan\2180602115_Trịnh Tuấn Đan\Lab3_2\obj\Debug\Lab3_2.pdb
